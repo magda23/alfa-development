@@ -1,0 +1,78 @@
+@font-face {
+  font-family: "BPG Mrgvlovani Caps 2010";
+  src: url("../fonts/BPGMrgvlovaniCaps2010.eot");
+  src: url("../fonts/BPGMrgvlovaniCaps2010.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/BPGMrgvlovaniCaps2010.woff2") format("woff2"),
+    url("../fonts/BPGMrgvlovaniCaps2010.woff") format("woff"),
+    url("../fonts/BPGMrgvlovaniCaps2010.ttf") format("truetype"),
+    url("../fonts/BPGMrgvlovaniCaps2010.svg#BPGMrgvlovaniCaps2010")
+      format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BPG Mrgvlovani";
+  src: url("../fonts/BPGMrgvlovani.eot");
+  src: url("../fonts/BPGMrgvlovani.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/BPGMrgvlovani.woff2") format("woff2"),
+    url("../fonts/BPGMrgvlovani.woff") format("woff"),
+    url("../fonts/BPGMrgvlovani.ttf") format("truetype"),
+    url("../fonts/BPGMrgvlovani.svg#BPGMrgvlovani") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "ALK Katerina";
+  src: url("../fonts/ALKKaterina.eot");
+  src: url("../fonts/ALKKaterina.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/ALKKaterina.woff2") format("woff2"),
+    url("../fonts/ALKKaterina.woff") format("woff"),
+    url("../fonts/ALKKaterina.ttf") format("truetype"),
+    url("../fonts/ALKKaterina.svg#ALKKaterina") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "lg";
+  src: url("../fonts/lg.ttf?22t19m") format("truetype"),
+    url("../fonts/lg.woff?22t19m") format("woff"),
+    url("../fonts/lg.svg?22t19m#lg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: "BPG Nino Mtavruli bd";
+  src: url("../fonts/BPGNinoMtavruli-Bold.eot");
+  src: url("../fonts/BPGNinoMtavruli-Bold.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/BPGNinoMtavruli-Bold.woff2") format("woff2"),
+    url("../fonts/BPGNinoMtavruli-Bold.woff") format("woff"),
+    url("../fonts/BPGNinoMtavruli-Bold.ttf") format("truetype"),
+    url("../fonts/BPGNinoMtavruli-Bold.svg#BPGNinoMtavruli-Bold") format("svg");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "DM Giorgi Khorguashvili";
+  src: url("../fonts/DMGiorgiKhorguashvili-Regular.eot");
+  src: url("../fonts/DMGiorgiKhorguashvili-Regular.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/DMGiorgiKhorguashvili-Regular.woff2") format("woff2"),
+    url("../fonts/DMGiorgiKhorguashvili-Regular.woff") format("woff"),
+    url("../fonts/DMGiorgiKhorguashvili-Regular.ttf") format("truetype"),
+    url("../fonts/DMGiorgiKhorguashvili-Regular.svg#DMGiorgiKhorguashvili-Regular")
+      format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
